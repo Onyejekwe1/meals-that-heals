@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--This drawer menu has items Only without any group or classification -->
+    <group android:id="@+id/ailments" android:checkableBehavior="single">
+    <item
+        android:id="@+id/item_antiageing"
+        android:checkable="true"
+        android:icon="@drawable/ic_nature_white_48dp"
+        android:title="@string/SkinCare" />
+
+    <item
+        android:id="@+id/item_asthma"
+        android:checkable="true"
+        android:icon="@drawable/ic_nature_white_48dp"
+        android:title="@string/asthma" />
+
+    <item
+        android:id="@+id/item_burns"
+        android:checkable="true"
+        android:icon="@drawable/ic_nature_white_48dp"
+        android:title="@string/burns" />
+
+    <item
+        android:id="@+id/item_catarrh"
+        android:checkable="true"
+        android:icon="@drawable/ic_nature_white_48dp"
+        android:title="@string/catarrh" />
+
+    <item
+        android:id="@+id/item_constipation"
+        android:checkable="true"
+        android:icon="@drawable/ic_nature_white_48dp"
+        android:title="@string/constipation" />
+
+    <item
+        android:id="@+id/item_diabetes"
+        android:checkable="true"
+        android:icon="@drawable/ic_nature_white_48dp"
+        android:title="@string/Diabetes" />
+
+    <item
+        android:id="@+id/item_ear_disease"
+        android:checkable="true"
+        android:icon="@drawable/ic_nature_white_48dp"
+        android:title="@string/ear" />
+
+    <item
+        android:id="@+id/item_eczema"
+        android:checkable="true"
+        android:icon="@drawable/ic_nature_white_48dp"
+        android:title="@string/eczema" />
+
+    <item
+        android:id="@+id/eye"
+        android:checkable="true"
+        android:icon="@drawable/ic_nature_white_48dp"
+        android:title="@string/eye" />
+
+    <item
+        android:id="@+id/hair_loss"
+        android:checkable="true"
+        android:icon="@drawable/ic_nature_white_48dp"
+        android:title="@string/hair" />
+
+    <item
+        android:id="@+id/hepatitis"
+        android:checkable="true"
+        android:icon="@drawable/ic_nature_white_48dp"
+        android:title="@string/hepatitis" />
+
+    <item
+        android:id="@+id/internal_body_heat"
+        android:checkable="true"
+        android:icon="@drawable/ic_nature_white_48dp"
+        android:title="@string/ibh" />
+
+    <item
+        android:id="@+id/Jaundice"
+        android:checkable="true"
+        android:icon="@drawable/ic_nature_white_48dp"
+        android:title="@string/jaundice" />
+
+    <item
+        android:id="@+id/Laryngitis"
+        android:checkable="true"
+        android:icon="@drawable/ic_nature_white_48dp"
+        android:title="@string/laryngitis" />
+
+    <item
+        android:id="@+id/lobido"
+        android:checkable="true"
+        android:icon="@drawable/ic_nature_white_48dp"
+        android:title="@string/lobido" />
+
+    <item
+        android:id="@+id/LooseMotion"
+        android:checkable="true"
+        android:icon="@drawable/ic_nature_white_48dp"
+        android:title="@string/loosemotion" />
+
+    <item
+        android:id="@+id/LowSpermCount"
+        android:checkable="true"
+        android:icon="@drawable/ic_nature_white_48dp"
+        android:title="@string/lsc" />
+
+    <item
+        android:id="@+id/Malaria"
+        android:checkable="true"
+        android:icon="@drawable/ic_nature_white_48dp"
+        android:title="@string/malaria" />
+
+    <item
+        android:id="@+id/MouthOdour"
+        android:checkable="true"
+        android:icon="@drawable/ic_nature_white_48dp"
+        android:title="@string/mouthodour" />
+
+    <item
+        android:id="@+id/Pile"
+        android:checkable="true"
+        android:icon="@drawable/ic_nature_white_48dp"
+        android:title="@string/pile" />
+
+    <item
+        android:id="@+id/Poison"
+        android:checkable="true"
+        android:icon="@drawable/ic_nature_white_48dp"
+        android:title="@string/poison" />
+
+    <!--<item-->
+    <!--android:id="@+id/Rheumatism"-->
+    <!--android:checkable="true"-->
+    <!--android:icon="@drawable/ic_nature_white_48dp"-->
+    <!--android:title="@string/rheumatism"/>-->
+
+    <item
+        android:id="@+id/Ringworm"
+        android:checkable="true"
+        android:icon="@drawable/ic_nature_white_48dp"
+        android:title="@string/ringworm" />
+
+    <item
+        android:id="@+id/tubaculosis"
+        android:checkable="true"
+        android:icon="@drawable/ic_nature_white_48dp"
+        android:title="@string/tubaculosis" />
+
+    <item
+        android:id="@+id/typhoid"
+        android:checkable="true"
+        android:icon="@drawable/ic_nature_white_48dp"
+        android:title="@string/typhoid" />
+
+    <item
+        android:id="@+id/ulcer"
+        android:checkable="true"
+        android:icon="@drawable/ic_nature_white_48dp"
+        android:title="@string/ulcer" />
+
+    <item
+        android:id="@+id/weakErection"
+        android:checkable="true"
+        android:icon="@drawable/ic_nature_white_48dp"
+        android:title="@string/weakerrection" />
+
+    <item
+        android:id="@+id/whitlow"
+        android:checkable="true"
+        android:icon="@drawable/ic_nature_white_48dp"
+        android:title="@string/whitlow" />
+
+    <item
+        android:id="@+id/worms"
+        android:checkable="true"
+        android:icon="@drawable/ic_nature_white_48dp"
+        android:title="@string/worm" />
+
+    <item
+        android:id="@+id/waterRetention"
+        android:checkable="true"
+        android:icon="@drawable/ic_nature_white_48dp"
+        android:title="@string/waterretention" />
+
+    <item
+        android:id="@+id/yellowFever"
+        android:checkable="true"
+        android:icon="@drawable/ic_nature_white_48dp"
+        android:title="@string/yellowfever" />
+</group>
+
+    <group android:id="@+id/back_end" android:checkableBehavior="single">
+        <item
+            android:id="@+id/share"
+            android:checkable="true"
+            android:icon="@drawable/ic_share_white_18pt_2x"
+            android:title="@string/share"
+            android:actionProviderClass="android.widget.ShareActionProvider"/>
+
+        <item
+            android:id="@+id/about"
+            android:checkable="true"
+            android:icon="@drawable/ic_info_outline_white_24dp"
+            android:title="@string/about" />
+</group>
+</menu>

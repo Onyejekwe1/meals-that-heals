@@ -1,0 +1,1119 @@
+<resources>
+    <string name="app_name">Meals That Heals</string>
+
+	<!--<string name="header_web_front_ent">Web Front End</string>-->
+    <!--<string name="header_back_end">Back End</string>-->
+    <!--<string name="header_mobile">Mobile</string>-->
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="asthma">Asthma</string>
+    <string name="burns">Burns</string>
+    <string name="catarrh">Catarrh</string>
+    <string name="constipation">Constipation</string>
+    <string name="ear">Ear Disease</string>
+    <string name="eczema">Eczema</string>
+    <string name="eye">Eye</string>
+    <string name="hair">Hair Loss</string>
+    <string name="hepatitis">Hepatitis</string>
+    <string name="ibh">Body Heat</string>
+    <string name="jaundice">Jaundice</string>
+    <string name="laryngitis">Laryngitis</string>
+    <string name="lobido">Low Libido</string>
+    <string name="loosemotion">Loose Motion</string>
+    <string name="lsc">Low Sperm Count</string>
+    <string name="Diabetes">Diabetes</string>
+    <string name="malaria">Malaria</string>
+    <string name="mouthodour">Mouth Odour</string>
+    <string name="pile">Pile</string>
+    <string name="poison">Poison</string>
+	<string name="ringworm">Ringworm</string>
+	<string name="tubaculosis">Tuberculosis</string>
+    <string name="typhoid">Typhoid</string>
+    <string name="ulcer">Stomach Ulcer</string>
+    <string name="weakerrection">Weak Erection</string>
+    <string name="whitlow">Whitlow</string>
+    <string name="worm">Worms</string>
+    <string name="waterretention">Water Retention</string>
+    <string name="yellowfever">Diarrhea</string>
+	<string name="SkinCare">Ageing</string>
+	<string name="herb">HERB</string>
+	<string name="cure">CURE</string>
+
+
+	<string name="pineapple">
+		Pineapples’ nutritional benefits are as fascinating as their anatomy.
+		Pineapples contain high amounts of vitamin C and manganese.
+		And their health and medicinal benefits include their ability to
+		improve respiratory health, cure coughs and colds, improve
+		digestion, help you lose weight, strengthen bones, improve oral health, etc.
+	</string>
+
+	<string name="pepper">
+		Peppers have a lot going for them. Low in calories and are loaded with good nutrition.
+		All varieties are excellent sources of vitamins A and C, potassium, folic acid, and fiber.
+		A chemical compound in pepper called piperine may
+		be able to help prevent a breast cancer tumor from developing.
+		Red peppers contain more than 200 percent of your daily vitamin C intake.
+	</string>
+
+	<string name="honey">
+		The benefits of honey go beyond its great taste.
+		A great natural source of carbohydrates which provide
+		strength and energy to our bodies.honey possesses
+		carcinogen-preventing and anti-tumour properties!
+		Thanks to its antimicrobial properties, honey not only
+		soothes throats but can also kill certain bacteria that causes the infection.
+	</string>
+
+	<string name="corn_silk">
+		The long shiny fibers at the top of an ear of corn are called corn silk.
+		Corn silk contains stigmasterol and sitosterol,
+		which are highly effective in preventing heart disease and high cholesterol.
+		It also has plant acids that help in improving oral and skin conditions
+		as well as regulating glucose levels in your body.
+	</string>
+
+	<string name="activated_coal">
+		Activated charcoal is a potent natural treatment used to trap toxins and chemicals in the body,
+		allowing them to be flushed out so the body doesn’t
+		reabsorb them. It’s made from a variety of sources, but when used for natural healing,
+		it’s important to select activated charcoal made from coconut shells or other natural sources.
+		Activated charcoal is jet black in colour-- odourless, tasteless and non-toxic.
+	</string>
+
+	<string name="lime">
+		The health benefits of lime include weight loss, skin care,
+		improved digestion, relief from constipation, eye care,
+		and treatment of scurvy, piles, peptic ulcer, respiratory
+		disorders, gout, gums, urinary disorders, etc.
+		Limes also contain antioxidants, including flavonol glycosides-containing kaempferol,
+		which research has shown stops cell division in several cancers.
+	</string>
+
+	<string name="snail_slime">
+		Snail Slime is packed with nutrients such as hyaluronic acid,
+		glycoprotein, proteoglycans, and antimicrobial and copper peptides,
+		all of which are commonly used in beauty products and proven to be beneficial for the skin.
+		These elements help to protect the snail’s skin from damage, infection, dryness and UV rays.
+	</string>
+
+	<string name="pawpaw">
+		The antioxidant zeaxanthin, found in papaya,
+		filters out harmful blue light rays and is thought
+		to play a protective role in eye health and possibly
+		ward off damage from macular degeneration.
+		Consumption of the powerful antioxidant beta-carotene (found in papayas) has been
+		shown to have an inverse association with the development of colon cancer in the Japanese population.
+	</string>
+
+	<string name="cinnamon">
+		Cinnamon is a spice that is made from the inner bark of trees called Cinnamomum.
+		It is high in a substance called cinnamaldehyde, which is responsible for most of the health benefits.
+		Antioxidants protect the body from oxidative damage caused by free radicals.
+		Cinnamon is loaded with powerful antioxidants, such as polyphenols (3, 4, 5).
+	</string>
+
+	<string name="bitter_kola">
+		Bitter kola is a type of nut mostly found in several parts of Nigeria
+		and West-Central Africa as a whole and the tree grows in the (tropical) rain forests.
+		Its biological name is “Garcinia kola” and belongs to the family of “Guittiferal”.
+		Chewing bitter kola relieves coughs, hoarseness, bronchial and throat troubles.
+	</string>
+
+	<string name="tomato">
+		Tomatoes are widely known for their outstanding antioxidant content,
+		including, of course, their oftentimes-rich concentration of lycopene.
+		Intake of tomatoes has long been linked to heart health. Fresh tomatoes
+		and tomato extracts have been shown to help lower total cholesterol, LDL cholesterol, and triglycerides.
+		Tomatoes provide an excellent amount of vitamin C and beta-carotene.
+	</string>
+
+	<string name="orange">
+		Juicy and sweet and renowned for its concentration of vitamin C,
+		oranges make the perfect snack and add a special tang to many recipes;
+		it is no wonder that they are one of the most popular fruits in the world.
+		the healing properties of oranges have been
+		associated with a wide variety of phytonutrient compounds.
+	</string>
+
+	<string name="guava">
+		Besides its unique flavour and fragrance, guava has been
+		hailed as one of the super fruits due to the numerous health benefits it offers.
+		It indeed is a powerhouse of nutrients. “This humble fruit is extraordinarily rich in vitamin C,
+		lycopene and antioxidants that are beneficial for skin. Guavas are also rich in manganese which helps the body
+		to absorb other key nutrients from the food that we eat. Guavas contain folate, a mineral which helps promote fertility.
+	</string>
+
+	<string name="carrot">
+		The health benefits of carrots include reduced cholesterol, prevention from heart attacks,
+		warding off of certain cancers, improving vision, and reducing the signs of premature aging.
+		Most of the benefits of carrots can be attributed to their beta-carotene and fiber content.
+		This root vegetable is also a good source of antioxidant agents. Furthermore, carrots
+		are rich in vitamin A, Vitamin C, Vitamin K, vitamin B8, pantothenic acid, folate,
+		potassium, iron, copper, and manganese. Carrots contain just 44 calories per 100gm.
+	</string>
+
+	<string name="cucumber">
+		Cucumbers belong to the same plant family as squash, pumpkin, and watermelon
+		Cucumbers contain an anti-inflammatory flavonol called
+		fisetin that appears to play an important role in brain health.
+		In addition to improving your memory and protecting your nerve cells from age-related decline,
+		fisetin has been found to prevent progressive
+		memory and learning impairments in mice with Alzheimer\'s disease.
+	</string>
+
+	<string name="onions">
+		Onions, like garlic, are members of the Allium family,
+		The regular consumption of onions have been
+		shown to lower the blood sugar levels. A study found that,
+		onions contain allyl propyl disulfide that helps
+		to reduce the glucose levels by increasing the amount of insulin.
+		onions are also a standout source of quercetin.
+	</string>
+
+	<string name="unriped_plantain">
+		That unripe plantain you held back, waiting for it to ripe is loaded
+		with abundant essential minerals and vitamins such as dietary fibre, iron,
+		potassium, vitamin B-complex, magnesium, manganese, copper, niacin, riboflavin and thiamin.
+		Various studies conducted have shown that unripe plantain
+		contains phytochemical properties such as leucocyanidin which can prevents ulcer.
+	</string>
+
+	<string name="lemon">
+		The health benefits of lemon include treatment of throat infections,
+		indigestion, constipation, dental problems, and fever, internal bleeding,
+		rheumatism, burns, obesity, respiratory disorders, cholera and high blood pressure.
+		The health benefits of lemons are due to its many nourishing elements like vitamin C,
+		vitamin B6, vitamin A, vitamin E, folate, niacin thiamin, riboflavin,
+		pantothenic acid, copper,  calcium, iron,  magnesium, potassium, zinc, phosphorus and protein.
+	</string>
+
+	<string name="olive_oil">
+		Olive oil is a fat obtained from the fruit of the Olea europaea (olive tree).
+		Olive oil, rich in monounsaturated fatty acids, is a major component of the Mediterranean diet.
+		Monounsaturated fatty acids (MUFAs) are considered a
+		healthy dietary fat, as opposed to saturated fats and trans fats.
+	</string>
+
+	<string name="mango">
+		The mango is a member of the drupe family, a type of plant food in which an outer fleshy part surrounds a shell
+		(what we sometimes call a pit) with a seed inside. Olives, dates and coconuts are also types of drupes.
+		Mangoes may very well be the king of all fruits. They fight cancer, alkalize the body, aid in weight loss,
+		regulate diabetes, help digestion, clean your skin, and make the perfect snack.
+	</string>
+
+	<string name="basil_leaf">
+		Basil (Ocimum basilicum), also known as Saint Joseph\'s Wort, is an herb belonging to the mint family - Lamiaceae.
+		Basil contains high quantities of (E)-beta-caryophyllene (BCP), which may be useful in treating arthritis
+		and inflammatory bowel diseases, according to research conducted at the Swiss Federal Institute of Technology.
+	</string>
+
+	<string name="milk_weed">
+		Milkweeds secrete latex containing cardiac glycosides
+		that are medicinally valuable in the treatment of heart disease.
+		This same latex is an old home remedy for warts.
+	</string>
+
+	<string name="castor_bean">
+		 The castor oil plant produces castor beans, which is where the oil cis taken from.
+		Castor oil has a multitude of uses, in both the health and industrial sectors.
+		The castor bean is composed of 40 percent to 60 percent oil, and this oil is rich in triglycerides known as ricinolein.
+	</string>
+
+	<string name="ginger">
+		Of the 115 different chemical components found
+		in ginger root, the therapeutic benefits come from gingerols,
+		the oily resin from the root that acts as a highly potent antioxidant
+		and anti-inflammatory agent. These bioactive ingredients, especially [6]-gingerol,
+		have been thoroughly evaluated clinically, and the research backs up why you should use ginger on a regular basis
+	</string>
+
+	<string name="banana">
+		Bananas are good for the heart. They are packed with potassium, a mineral electrolyte that keeps electricity
+		flowing throughout your body, which is required to keep
+		your heart beating. Bananas\' high potassium and low sodium content may also help
+		protect your cardiovascular system against high blood pressure, according to the FDA.
+	</string>
+
+	<string name="garlic">
+		Garlic is a plant in the Allium (onion) family.
+		Two sulfur containing constituents in garlic, diallyl sulfide (DAS) and thiacremonone,
+		have anti-arthritic properties. Garlic has also been shown
+		to improve inflammatory conditions when referring to allergic airway inflammation.
+	</string>
+	<string name="search_hint">Search</string>
+	<string name="share">Share</string>
+	<string name="about">ABOUT</string>
+	<string name="version">version 1.0.0</string>
+
+	<string name="www.emfitech.com">www.emfitech.com</string>
+	<string name="copyright">&#169; 2016 EMFI-TECH INC.</string>
+	<string name="all_rights">All Rights Reserved</string>
+	<string name="shared_via"><![CDATA["https://play.google.com/store/apps/details?id=mealsthatheals.emfitech.com]]>
+		Check Out the latest and best natural home cure app for treatment/prevention of ailments and sicknesses through herbs and fruits
+	</string>
+	<string name="anti_ageing">
+		<![CDATA[
+				<p>Snail Slime (sticky fluid from snails)is the perfect thing if you want to slow down the ageing process to a snail’s pace.\n</p>"
+                " <p> Slime harvested from the creatures is the key ingredient in new range of anti-ageing products.
+                </p>
+                " <p> The products contain a cocktail of proteins, antioxidants and hyaluronic acid which removes dead cells, reduces inflammation and helps skin retain moisture.
+                "<br/><br/>The benefits for human skin were discovered by Chilean snail farmers who noticed their skin healed quickly without scarring when they handled the creatures which were being exported to France."</p>"
+                ]]></string>
+
+	<string name="asthmaAbout">
+		 <![CDATA[
+		 <p>Asthma is a chronic disease involving the airways in the lungs. These airways, or bronchial tubes, allow air to come in and out of the lungs.<br/><br/>
+                "If you have asthma your airways are always inflamed. They become even more swollen and the muscles around the airways can tighten when something triggers your symptoms.<br/><br/>"
+                " This makes it difficult for air to move in and out of the lungs, causing symptoms such as coughing, wheezing, shortness of breath and/or chest tightness.</p>
+                ]]>
+	</string>
+
+	<string name="aboutBurns">
+		 <![CDATA[
+		        "Burns are damage to the skin from heat, fire, radiation, sunlight, electricity or chemicals. There are three degrees of severity:"
+                "<br/>"
+                "<br/>"
+                " <p>&#9827; First-degree: these are the least serious burns. They are marked by redness, and extend only into the outermost layer of skin, known as the epidermis.\n"
+                "<br/>"
+                "<br/>"
+                " &#9827; Second-degree: These extend into skin tissue directly below the epidermis (known as the superficial or papillary dermis) and can involve superficial blistering.\n"
+                "<br/>"
+                "<br/>"
+                "&#9827; Third-degree: These damage all layers of skin. If they cover a large proportion of the body, they can be life-threatening.</p>"
+                "<br/>"
+                ]]>
+	</string>
+
+	<string name="aboutCatarrh">
+		<![CDATA[
+		 "<p> Catarrh is a build-up of mucus in an airway or cavity of the body.<br/>"
+                "It usually affects the back of the nose, the throat or the sinuses (air-filled cavities in the bones of the face).<br/>"
+                "It's often temporary, but some people experience it for months or years. This is known as chronic catarrh.<br/>"
+                "Catarrh can be a nuisance and may be difficult to get rid of, but it's not harmful and there are treatments available. </p>"
+                ]]>
+	</string>
+
+	<string name="aboutConstipation">
+		<![CDATA[
+		"<p>Constipation is a condition of the digestive system. The sufferer has hard feces that are difficult to expel. In most cases, this occurs because the colon
+		         has absorbed too much of the water from the food that is in the colon.<br/><br/>"
+                "The slower the food moves through your digestive tract, the more water the colon will absorb from food. Consequently, the feces become dry and hard.<br/><br/> "
+                "Defecation (emptying the bowels) can become very painful, and in some serious cases there may be symptoms of bowel obstruction. "
+                "When the constipation is very severe; when the constipation prevents the passage of feces and gas, it is called obstipation. </p>"
+		]]>
+	</string>
+
+	<string name="aboutDiabetes">
+		<![CDATA[
+		"<p> Diabetes, often referred to by doctors as diabetes mellitus, "
+                "describes a group of metabolic diseases in which the person has high blood glucose (blood sugar), "
+                "either because insulin production is inadequate, or because the body's cells do not respond properly to insulin, or both. "
+                "Patients with high blood sugar will typically experience polyuria (frequent urination), "
+                "they will become increasingly thirsty (polydipsia) and hungry (polyphagia).</p>"
+
+                " <p> Diabetes, also called diabetes mellitus, has become a very common heath problem. "
+                "There are two main types of diabetes- type 1 diabetes in which the body does not produce insulin "
+                "and type 2 diabetes in which the body does not produce enough insulin or the insulin that is produced does not work properly.</p>"
+
+                "<p>Some of the common symptoms of diabetes include fatigue, weight loss (even though you are eating more), "
+                "excessive thirst, increased urination, cut and bruises that are slow to heal and blurred vision.
+                "While there is no cure for diabetes, with your blood sugar level under control you can live a totally normal life. "
+                "There are various natural remedies for diabetes that will help you control your blood sugar level.</p>"
+                ]]>
+	</string>
+
+	<string name="aboutEarDisease">
+		<![CDATA[
+		        "<p>Ear is the most sensitive part of human body which is responsible to convey us the speech of the world. "
+                "A little discomfort to your ear can cause major problems. "
+                "The most common problems to the ear are ear infections.<br/><br/>"
+                " Such infections damage your middle ear the most and are caused by bacteria and viruses from the environment."
+                " Middle ear is the section of the ear which is behind the eardrum and is considered as the most sensitive section."
+                " Children are more likely to be affected from such infections the most and these are painful for them.<br/><br/> "
+                "If not taken care of these infections can not only be painful but can damage your hearing as well."
+                " These infections in ear create irritation in the ear, swelling of ear sections and build up extra fluid in ear.</p>"
+                ]]>
+	</string>
+
+	     <string name="aboutEczema">
+			 <![CDATA[
+		      "<p>Eczema is a general term for any superficial inflammatory process involving the epidermis primarily,"
+                " marked early by redness, itching, minute papules and vesicles,"
+                " weeping, oozing and crusting, and later by scaling, lichenification and often pigmentation."
+                " It is also used specifically to refer to the condition atopic dermatitis. </p>"
+                ]]>
+	</string>
+
+	<string name="aboutEye">
+		<![CDATA[
+		"<p><b>Cataracts</b></p><p>A cataract is a clouding of the lens of the eye that can make it harder for you to see.</p>"
+                " <p><b> Causes of Cataracts</b> </p>"
+                " <p> Cataracts happen when protein builds up in the lens of your eye, making it cloudy. "
+                "This prevents light from passing clearly through the lens, causing some loss of vision."
+                " New lens cells form on the outside of the lens, "
+                "and the older cells are compacted into the center of the lens, forming the cataract.</p>"
+                "<p><b>Dry Eyes</b></p>"
+                "<p>The eye depends on the flow of tears to provide constant moisture and lubrication to maintain vision and comfort."
+                " Tears are a combination of water, for moisture; oils, for lubrication; mucus, for even spreading; "
+                "and antibodies and special proteins, for resistance to infection."
+                " These components are secreted by special glands located around the eye. "
+                "When there is an imbalance in this tear system, a person may experience <b>dry eyes</b>.</p>"
+                ]]>
+	</string>
+
+	<string name="aboutHairLoss">
+		<![CDATA[
+		        "<p>Hair loss, or alopecia, is a concern for men, women, and children.</p>"
+                " <p>Several health conditions, including thyroid disease and iron deficiency
+		        anemia, can cause hair loss. While thyroid blood tests and other lab tests, including a complete blood count (CBC), "
+                "on people who have ordinary hair loss are usually normal, it is important to exclude treatable causes of hair loss. </p>"
+                ]]>
+	</string>
+
+	<string name="aboutHepatitis">
+		<![CDATA[
+		        "<p>Hepatitis is an inflammation of the liver. "
+                "The condition can be self-limiting or can progress to fibrosis (scarring), cirrhosis or liver cancer. "
+                "Hepatitis viruses are the most common cause of hepatitis in the world but other infections,"
+                " toxic substances (e.g. alcohol, certain drugs), and autoimmune diseases can also cause hepatitis. </p>"
+                " <p> There are 5 main hepatitis viruses, referred to as types A, B, C, D and E. These 5 types are of greatest concern"
+                " because of the burden of illness and death they cause and the potential for outbreaks and epidemic spread."
+                " In particular, types B and C lead to chronic disease in hundreds"
+                " of millions of people and, together, are the most common cause of liver cirrhosis and cancer.</p>"
+                " <p>Hepatitis A and E are typically caused by ingestion of contaminated food or water. "
+                "Hepatitis B, C and D usually occur as a result of parenteral contact with infected body fluids. "
+                "Common modes of transmission for these viruses include receipt of contaminated blood or blood products, "
+                "invasive medical procedures using contaminated equipment and for hepatitis B transmission from mother to baby"
+                " at birth, from family member to child, and also by sexual contact.</p>"
+                ]]>
+	</string>
+
+	<string name="aboutIBH">
+		<![CDATA[
+		        "<p>Body heat, also known as heat stress, is a common health problem caused by exposure to high temperatures. "
+                "It occurs when the body is not able to cool itself enough to keep its temperature within the normal range of 36.5–37.5 degrees Celsius. "
+                "The body normally cools off by sweating, but sometimes sweating is not sufficient and the temperature keeps rising.</p>"
+                " <p> Factors like very hot and humid weather, spending too much time in the sun, "
+                "wearing tight clothing, strenuous workouts or physical exercise and certain medical conditions may cause or worsen the problem. </p>"
+                " <p> Body heat is not a disease but it should not be taken lightly. If left untreated, it can develop into a heatstroke. "
+                "Anyone can suffer from heat stress, but people over 65, babies and young children,"
+                " pregnant and nursing mothers, and people who are physically unwell are at a higher risk. </p>"
+		]]>
+	</string>
+
+	<string name="aboutJaundice">
+		<![CDATA[
+		        "<p>Jaundice is not a disease but a sign of an underlying disease. "
+                "Alcoholic liver disorder and viral hepatitis are the two most common diseases that result in Jaundice. "
+                "Other underlying causes of Jaundice include malaria, cirrhosis, thalassemia, hepatitis A, cholestasis or other disorders of the liver .</p>"
+                " <p>Jaundice cannot be treated or better said, treatment of jaundice is usually unnecessary."
+                "The correct approach to cure Jaundice is to treat the underlying disease. "
+                "Allopathic system prescribes blood test for abnormal red blood cells, bilirubin levels, "
+                "hepatitis and substances that indicate liver dysfunction. "
+                "Doctor often prescribe additional tests like biopsy or ultrasound to identify the causes of jaundice.</p>"
+                " <p> A correct dignosis of underlying cause is vital for taking remedial measures for Jaundice."
+                "However certain foods are known to alleviate the symptoms and help improve liver functioning." </p>"
+                ]]>
+	</string>
+<string name="aboutLaryngitis">
+	<![CDATA[
+	"<p>Laryngitis is the result of an inflammation of the vocal cords (larynx). "
+	"It is usually caused by excessive strain on the vocal cords or a viral or bacterial infection.</p>"
+	" <p>The most common symptom of laryngitis is a hoarse or weak voice. Sometimes people cannot talk at all. "
+	"It is often accompanied by a sore throat and dry cough.</p>"
+	" <p> In most cases, it is an acute condition that heals with time and has no serious consequences.  "
+	"But you can get rid of the pain and inflammation and restore your voice more quickly with some easy and simple natural remedies.\n"
+	"\n"
+	"The problem usually lasts for a few days or up to 2 weeks, at the most. "
+	"If it persists longer then it is likely to be chronic laryngitis for which you need to consult a doctor.</p>"
+	]]>
+	</string>
+
+	<string name="aboutLobido">
+		<![CDATA[
+		       "<p>Libido, colloquially known as sex drive, is a person's overall sexual drive or desire for sexual activity</p>"
+                " <p>Low libido describes a decreased interest in sexual activity.\n"
+                "\n" "It’s common to lose interest in sex from time to time, and libido levels vary through life. "
+                "It’s also normal for your interest not to match your partners at times. "
+                "However, low libido for a long period of time may cause concern for some people. "
+                "Low libido can sometimes be an indicator of underlying health conditions.</p>"
+                " <p>Causes of low libido includes low testosterone, taking certain medications,"
+                " Restless Leg Syndrome (RLS), chronic illness, depression, aging etc. </p>"
+                ]]>
+	</string>
+
+	<string name="aboutLoose_motion">
+		<![CDATA[
+		         "<p>In simple terms, loose motion means you are having watery stools that occur more frequently than usual. "
+                "It is also known as diarrhea, which most people have experienced. It can be acute or chronic.</p>"
+                " <p>This common problem occurs when the food and fluids you ingest start passing too quickly or in too large an amount through the colon. </p>"
+                " <p> Along with frequent loose, watery stools, you may even have symptoms like abdominal cramps, abdominal pain, a fever, bloating and weakness.\n"
+                "To reduce the frequency of loose motion and bring your bowel movements to regularity, there are many simple and easy home remedies.</p>"
+                ]]>
+	</string>
+
+	<string name="aboutLSC">
+		<![CDATA[
+		        "<p>This is a situation whereby the number of active cells in the spermatozoa is very low and as a result, "
+                "it cannot fertilize the egg in a woman’s ovary that can subsequently lead to "
+                "fertilization and eventually pregnancy can occur. When the sperm count of a man is relatively low, "
+                "it can lead to infertility, which is inability to bare children. "
+                "And this is not healthy for our existence.</p>
+		]]>
+	</string>
+
+	<string name="aboutMalaria">
+		<![CDATA[
+		        "<p>Malaria is caused by Plasmodium parasites. "
+                "The parasites are transmitted by infected Anopheles mosquitoes, "
+                "called ‘malaria vectors’, which bite mainly between dusk and dawn.</p>"
+                " <p>Early diagnosis and treatment will help reduce further complications of the disease and prevent deaths.\n"
+                "\n" "Depending on the victim’s age, health condition, severity of symptoms, "
+                "type of malaria and whether the person is pregnant, the length of treatment and the types of drug will differ</p>"
+                " <p>While medicines are the first option to treat malaria, there are a few parasites that can survive in the liver "
+                "or are resistant to medicines. And hence it is important to uproot them from the body.</p>"
+                ]]>
+	</string>
+
+	<string name="aboutMO">
+		<![CDATA[
+		        "<p>Bad breath or mouth odour (also known as halitosis or malodor) can be very embarrassing and tough on those around you.</p>"
+                " <p>Bad breath is often caused by a buildup of bacteria in your mouth that causes inflammation and gives off noxious odours. "
+                "When you don’t brush or floss regularly, bacteria accumulate on the bits of food left in your mouth and between your teeth. "
+                "The compounds released by these bacteria make your breathe smell.</p>"
+                " <p>A number of things can cause mouth odour and they include: dental cavities, gum disease, poor oral hygiene, coated tongue "
+                "(a white or yellow coating on the tongue, usually due to inflammation). These are among the most common.</p>";
+	]]>
+	</string>
+
+	<string name="aboutPile">
+		<![CDATA[
+		        "<p>Also refered by the name Hemorrhoids, piles are the swollen and itchy varicose veins in the "
+                "rectum or anus which is caused by frequent constipations and unclear bowel movement. "
+                "It is also caused due to extensive pressure at the veins during pregnancy or delivery.</p>"
+                " <p>It has been found that about 70 to 80 percent of adult population worldwide is affected by piles at some point in their life time. "
+                "Though piles are not very serious health conditions, they cause itching, uneasiness and bleeding.</p>"
+                " <p>Consuming healthy foods and regular exercise are the most effective ways to prevent piles. "
+                "But if the condition is severe then surgery is required to remove it.</p>"
+                ]]>
+	</string>
+
+	<string name="aboutPoison">
+		<![CDATA[
+		"<p>In biology, poisons are substances that cause disturbances in organisms, "
+                "usually by chemical reaction or other activity on the molecular scale, "
+                "when an organism absorbs a sufficient quantity.</p>"
+                " <p> The fields of medicine (particularly veterinary) and zoology often distinguish a poison from a toxin,and from a venom. "
+                "Toxins are poisons produced by organisms in nature, and venoms are toxins injected by a bite or sting (this is exclusive to animals). "
+                "The difference between venom and other poisons is the delivery method. Industry, agriculture, "
+                "and other sectors use poisons for reasons other than their toxicity. "
+                "Pesticides are one group of substances whose toxicity is their prime purpose.</p>"
+                " <p> In 2013, 3.3 million cases of unintentional poisonings occurred. "
+                "This resulted in 98,000 deaths worldwide, down from 120,000 deaths in 1990 </p>"
+                ]]>
+	</string>
+
+	<string name="aboutRheumatism">
+		<![CDATA[
+		"<p>Malaria is an infectious disease often caused by Mycobacterium tuberculosis. </p>"
+                " <p> Thick and stubborn mucus in your lungs or sinuses can cause seemingly endless
+					spasms of coughing, sneezing and painful infections. In a study published in \"Der Pharma Chemica\" in 2010,
+					researchers attempted to find beneficial treatments for patients who have tuberculosis. </p>"
+                " <p> As part of their studies, they discovered that a mixture of raw pineapple
+					juice, pepper, salt and honey given to patients every day helped to dissolve the mucus in the lungs. </p>"
+					]]>
+	</string>
+
+	<string name="aboutRingworm">
+		<![CDATA[
+		"<p>Ringworm (Tinea), as its name appears, isn’t really a worm at all. Ringworm is actually "
+                "a type of fungal infection on the outer layer of the skin that appears"
+                " like a ring-like circular red rash with dry and flaky edges that often has blisters on them.</p>"
+                " <p>Jock itch and Athlete’s foot are its localized forms. Ringworm is extremely itchy and contagious. "
+                "It can spread to other parts of body by just touching or coming in contact with a person suffering from ringworm.</p>"
+                " <p>Pets like cats and dogs can be one of the main sources of transmitting this infection to humans. "
+                "Other ways of transmitting this infection could be through cuts, scratches and wounds. "
+                "Ringworm can be easily treated at home without using prescription drugs. "
+                "Continue with your treatment for 2-3 weeks, even after getting relief from the symptoms to prevent recurrence.</p>"
+                ]]>
+	</string>
+
+	<string name="aboutTuba">
+		<![CDATA[
+		"<p>Tuberculosis is an infectious disease often caused by Mycobacterium tuberculosis. </p>" +
+                " <p> Thick and stubborn mucus in your lungs or sinuses can cause seemingly
+		endless spasms of coughing, sneezing and painful infections.</p>"
+		]]>
+	</string>
+
+	<string name="aboutTyphoid">
+		<![CDATA[
+		       "<p>Typhoid fever, also known as typhoid, is a bacterial infection of the intestinal tract and bloodstream. "
+                "It is most commonly caused due to the Salmonella typhi (S. typhi) bacterium.</p>"
+                " <p>Once the bacteria enters the body through contaminated food, drinks or water, "
+                "they multiply and spread from the intestines into the bloodstream. "
+                "The bacteria travel through the blood to your lymph nodes, liver, spleen, gallbladder and other parts of the body.</p>"
+                " <p>Early symptoms of typhoid are fever, weakness, headache and abdominal pain. "
+                "As the disease gets worse, one can also have symptoms like severe diarrhea, "
+                "vomiting, constipation, loss of appetite, skin rashes, blood in the stools, "
+                "chills, delirium, hallucinations, fluctuating mood, enlarged liver, nosebleeds and lethargy. "
+                "Symptoms usually improve in 2 to 4 weeks with proper treatment.</p>"
+                ]]>
+	</string>
+
+	<string name="aboutUlcer">
+		<![CDATA[
+		        "<p>Stomach ulcers are painful sores that can be found in the stomach "
+                "lining or small intestine. Stomach ulcers are the most visible sign of peptic ulcer disease."
+                " They occur when the thick layer of mucus that protects your stomach from digestive juices is reduced, "
+                "Thus enabling the digestive acids to eat away at the lining tissues of the stomach.</p>"
+                " <p>There is no clear evidence to suggest that the stress of modern life or a steady diet of fast "
+                "food causes ulcers in the stomach and small intestine, but they are nonetheless common in our society</p>"
+                " <p>Stomach ulcers are easily cured, but they can become severe without proper treatment.</p>"
+		]]>
+	</string>
+
+	<string name="aboutWE">
+		<![CDATA[
+		"<p>When men become sexually aroused, hormones, muscles, nerves, and "
+                "blood vessels all work with one another to create an erection. "
+                "Nerve signals, sent from the brain to the penis, stimulate muscles to relax. "
+                "This, in turn, allows blood to flow to the tissue in the penis. "
+                "Once the blood fills the penis and an erection is achieved, "
+                "the blood vessels to the penis close off so that the erection is maintained. "
+                "Following sexual arousal, the veins to the penis again open up, allowing the blood to leave. </p>"
+                " <p>At some point in a man’s life, he may have difficulty achieving or maintaining an erection. "
+                "Erection problems occur when you can’t achieve or maintain an erection that’s firm enough to have sexual intercourse. "
+                "For most men, this problem occurs occasionally and isn’t a serious issue. "
+                "However, if you are unable to achieve an erection one-quarter of the time or more, "
+                "you may have a health problem that requires medical attention.</p>"
+                " <p>The causes of erection problems can be physical, psychological, or a combination of the two. "
+                "Physical causes of erection problems are more common in older men. "
+                "They occur because of disorders that can affect the nerves "
+                "and blood vessels responsible for causing an erection.</p>"
+		]]>
+	</string>
+
+	<string name="aboutWhitlow">
+		<![CDATA[
+		"<p>Whitlow is scientifically called ‘Paronychia’. "
+                "This condition is found on the fingers near the nails and is extremely painful and contagious. "
+                "The tingling sensation caused due to whitlow in the fingers is extremely bad than pain caused due to severe headache. "
+                "This condition is caused in the finger tips due to ‘herpes simplex virus’. "
+                "Thus, it is also called ‘Herpetic whitlow’.</p>"
+                " <p>Both types of herpes simplex virus – Type 1 and Type 2 can cause herpetic whitlow. "
+                "It occurs when the skin is broken on fingertips and it comes directly into contact with the body fluids infected herpes virus.\n"
+                "\n"
+                "Some symptoms of whitlow include intense pain, itching, swelling or redness on the fingertips. "
+                "Small blisters can also be seen. Some general symptoms accompanied with whitlow "
+                "include swollen lymph nodes, fever, red streaking on arms. "
+                "If these symptoms are seen, it indicates a significant infection.</p>"
+                " <p>Though, the problem of whitlow resolves within two to three weeks without treatment. "
+                "If you need help from medical practitioner, then he might prescribe you some medications "
+                "which can reduce pain and swelling, but if you experience repeated episodes of whitlow, "
+                "then he might give you a course of antiviral medication to prevent severe symptoms of its future occurrences.</p>"
+		]]>
+	</string>
+
+	<string name="aboutWorms">
+		<![CDATA[
+		"<p>Helminths, also commonly known as parasitic worms, are large multicellular organisms, "
+                "which when mature can generally be seen with the naked eye. "
+                "They are often referred to as intestinal worms even though not all helminths reside in the intestines; "
+                "for example schistosomes are not intestinal worms, but rather reside in blood vessels.</p>"
+                "<p>There are several types of worms that can cause problems in humans, "
+                "including threadworms, roundworms, tapeworms, whipworms and hookworms.</p>"
+                " <p>Intestinal worms can be effectively treated using common modern prescriptions. "
+                "These medicines are usually administered in two to three doses, "
+                "with a fortnight difference between each consecutive dosage. "
+                "However there might be situations where natural cure and home remedies may be equally effective.</p>"
+		]]>
+	</string>
+
+	<string name="aboutWR">
+		<![CDATA[[
+		"<p>Water retention, also known as edema, occurs when the lymph system fails to remove excess fluids from "
+                "the body and those fluids become trapped and cause swelling in the hands, legs, ankles, and feet. "
+                "Edema has many causes, including heart problems, poor circulation, allergies, liver disease, "
+                "vitamin deficiencies, kidney problems, and thyroid disorders, among many others. Symptoms of edema vary from person to person, "
+                "but typically include weight gain, swelling, itching, aching, bloat, joint stiffness, and high blood pressure.</p>"
+                " <p> The key to preventing water retention is to stay hydrated, eat healthy, and "
+                "get regular exercise so that your body will function properly and expel excess water naturally. </p>"
+		]]>
+	</string>
+
+	<string name="cureAntiAgeing">
+		<![CDATA[[
+		         <p> &#9827; Apply the fluid to directly to your face or allow the snail walk over your face while secreting its fluid
+                Don\'t worry, it is totally harmless</p>
+		]]>
+	</string>
+
+	<string name="cureAsthma">
+		<![CDATA[
+			"<p> <b>Giant Milkweed (Calotropis Procera)</b></p>"
+                "The best natural cure for asthma is the Calotropis Procera."
+                "<p>It is commonly called Giant milk weed or Sodom apple. The Yorubas call it bomu bomu, the Hausas named it tumfaa fiyaa,/bam bam bele.
+                 It is a fructose shrub and the leaves produce milky juice. Fruits appear like gall."
+                " Stem and leaves are whitish green in colour. Leaves arrangement is whorled.
+                It is found around homes and garden where humus soil is abundant.
+                And the parts used are the leaves and latex. The chemical compounds are calotropin, calotoxin and resinols.
+                The smoke from the dried leaves, if inhaled can cure asthma and cough. "
+                "Leaves are used to induce breast milk in women and for preparing fresh cow milk called wara (cheese)</p>"
+                "<p><b>Procedure</b></p>"
+                "For fast and effective results, follow this procedures:<br/>"
+                "<br/>"
+                "&#9827; The leaves should be washed very well and cooked on medium heat(not more than 10 minutes).<br/>"
+                "<br/>"
+                "&#9827; Boil with little water, while ensuring the leaves are totally covered with water.<br/>"
+                "<br/>"
+                "&#9827; The leaves should be arranged in pairs (facing each other) in the water.<br/>"
+                "<br/>"
+                "&#9827;Half a cup should be taken milkweed times daily morning and night (Should be taken while warm).<br/>"
+                "<br/>"
+                "&#9827; Take for a minimum of 7 days.";
+		]]>
+	</string>
+
+	<string name="cureBurns">
+		<![CDATA[
+			"<p> <b>Manuka Honey</b></p>"
+                "The manuka honey is obtained from nectar collected by honey bees from manuka trees found in New Zealand."
+                "Honey can be spectacularly effective for severe burns and is the basis of a therapy in China that has attracted much attention from doctors in the West."
+                " It is soothing, antiseptic and healing. However, Don't depend on the normal honey from the supermarket – or the health food store – to treat your next burn.
+                Instead, try one of the medicinal honeys. The type used in New Zealand research on honey for wound healing is known as manuka honey, and is available commercially. "
+                "German physicians have been using Medihoney for treatment of persistent wounds. If you have a really bad burn, be sure to get prompt medical treatment. "
+                "<p>Apply the (manuka) honey at the affected area twice (Morning and Night) everyday</p>.";
+		]]>
+	</string>
+	
+	<string name="cureCatarrh">
+		<![CDATA[
+			"<p> <b>Honey and Lime</b></p>"
+                "<p>The power of honey to soothe a sore throat and catarrh has long been utilized in traditional and alternative forms of medicine."
+                " New research has revealed honey to be as equally effective in suppressing coughs as over-the-counter medications. "
+                "Reduced nighttime coughing, catarrh and improved sleep were the results of 2 teaspoons of honey given to children age 2 and older before bedtime."
+                " Due to its high vitamin C content, list_item juice offers antioxidants that compliment honey by working to heal underlying issues at the root of the cough.</p>"
+                "<p>&clubs; Mix 3 teaspoons of list_item juice into 5 spoons of honey. Take all at once.</p>"
+		]]>
+	</string>
+
+	<string name="cureConstipation">
+		<![CDATA[
+			"<p> <b>Basil leaves and Honey</b></p>"
+                "Basil leaves (called "Nchuanwu" in Igbo language) and honey is a good combination which keeps your bowel
+                clear and help you to overcome constipation. Take some fresh basil leaves and chew them.
+                Lick one teaspoon honey and swallow the whole thing followed by a glass of warm water."
+                " You will get relief from constipation."
+		]]>
+	</string>
+
+	<string name="cureDiabetes">
+		<![CDATA[
+			"<p>Bitter Gourd or Mango Leaf</p>"
+                "Bitter gourd, also known as bitter melon or Karela, (Also called \"Ejinrin\" in Yoruba Language), "
+                "can be helpful for controlling diabetes due to its blood glucose lowering effects. "
+                "It tends to influence the glucose metabolism all over your body rather than a particular organ or tissue."
+                "<br/><br/> It helps increase pancreatic insulin secretion and prevents insulin resistance. "
+                "Thus, bitter gourd is beneficial for both type 1 and type 2 diabetes. "
+                "However, it cannot be used to entirely replace insulin treatment."
+                "<p>&#9827; First remove the seeds of two to three bitter gourds and use a juicer to extract the juice.<br/><br/>"
+                "&#9827;  Add some water and then drink it on an empty stomach first thing in the morning.<br/><br/>"
+                "&#9827; Follow this treatment daily in the morning for at least two months.</p>"
+                "<p>The delicate and tender mango leaves can be used to treat diabetes by regulating insulin levels in the blood."
+                " They can also help improve blood lipid profiles.</p>"
+                "&#9827; Soak 10 to 15 tender mango leaves in a glass of water overnight. "
+                "In the morning, filter the water and drink it on an empty stomach.<br/><br/>"
+                "&#9827; You can also dry the leaves in the shade and grind them. "
+                "Eat one-half teaspoon of powdered mango leaves two times daily."
+		]]>
+	</string>
+
+	<string name="cureEarDisease">
+		<![CDATA[
+			"<p> <b>Hot Water, Salt and Honey </b></p>"
+                "Mix hot water with a little salt, add honey and stir. Put 2 drops in each ear before going to bed."
+		]]>
+	</string>
+
+	<string name="cureEczema">
+		<![CDATA[
+			"<p> <b>Papaya Leaf </b></p>"
+                "Papaya leaf juice is the juice extracted from the leaves of papaya plant. "
+                "Recent studies have shown that  papaya leaf juice has benefits skin in various ways and enhances the quality and health of your skin."
+                "<p>Eczema is effectively treated using papaya leaf juice. <br/>"
+                "Take the juice from papaya leaves and use it to apply over the affected areas. "
+                "Make sure you scrub your skin well before applying.</p>"
+		]]>
+	</string>
+
+	<string name="cureEye">
+		<![CDATA[
+			"<p> <b>Castor Bean Oil</b> </p>"
+                "Castor bean oil (Ugba seed in igbo language) is a vegetable oil that is obtained in its purest form from the castor bean seed. "
+                "It is tasteless, odourless, and colorless. "
+                "The hull of the seed is removed by castor bean cultivators before it is pressed to extract the oil. "
+                "Castor oil has a long history. It was widely used in Ancient Egypt and later adopted as a medicine in Persia and China. "
+                "It is believed that around 4000 BC, the Ancient Egyptians used it to burn lamps."
+                "<p><b>Treats Dry Eyes</b></p>"
+                "castor oil is one of the best natural treatments for dry eyes. "
+                "For a safe and natural remedy for this condition, you should use castor oil eye drops. "
+                "It provides the lubrication that your eyes need to make sure they always stay moist. "
+                "Dry eyes can cause other serious eye problems such as keratoconjunctivitissicca, so it is important to treat it as quickly as possible."
+                " You will quickly gain relief from the discomfort that comes with this problem."
+                "<p><b>Treats Cataracts</b></p>"
+                "Castor oil is known to be an effective remedy for dissolving early cataracts. "
+                "Experts recommend a drop of this oil in each eye every night before you go to bed. "
+                "You should use it before you sleep as the oil clouds vision for a while; hence it’s the safest to use it at night. "
+                "Depending on how developed the condition is, cataracts take about 2 to 6 months to disappear. "
+                "Remember not to use castor oil that is made for baths or oil packs."
+		]]>
+	</string>
+
+	<string name="cureHairLoss">
+		<![CDATA[
+			"<p> <b>Honey and Olive Oil</b> </p>"
+                "Honey is thick and the olive oil is quite thin so they balance out each other perfectly and enhance the benefit of each ingredient.<br/><br/>"
+                "&#9827; Pour about 5 table spoons of olive oil into a small bowl<br/><br/>"
+                "&#9827; Add small drops of honey<br/><br/>"
+                "&#9827; whisk constantly and continuing to add honey until the consistency of the mask is smooth, not overly sticky<br/><br/>"
+                "&#9827; Massage the mask into damp hair until evenly distributed and fully saturated.<br/><br/>"
+                "&#9827; Cover hair with a shower cap, plastic wrap or a plastic grocery bag.<br/><br/>"
+                "&#9827; Allow the mask to soak in for 90 minutes<br/><br/>"
+                "&#9827; Rinse the mask completely out of the hair and thoroughly with shampoo.<br/><br/>"
+                "&#9827; Use this deep conditioning treatment weekly or even twice weekly for dry hair.<br/>"
+                "You can also adjust the amount of olive oil and honey according to your hair's needs."
+		]]>
+	</string>
+
+	<string name="cureHepatitis">
+		<![CDATA[
+			"<p> <b>Neem Leaves (Dogoyaro)</b> </p>"
+                "Neem (Dogoyaro) contains several constituents that have been proved to have anti-viral action; "
+                "this makes it useful in treating hepatitis that is viral in origin. "
+                "Neem is also said to be capable of destroying the toxins generated in the liver. "
+                "The best way to benefit from neem is to make a juice using washed neem leaves; "
+                "mix about 30 ml of this juice with half its volume of honey and consume this early every morning on an empty stomach for a week.<br/><br/>"
+                "<b>OR</b><br/><br/>"
+                "Collect equal quantities of mango, pawpaw and (Neem) dogoyaro leaves, slice a full riped pineapple into the "
+                "a pot and boil all with 3 litres of water for 40-45 minutes.<br/>"
+                "Drink a full glass thrice daily for one week"
+		]]>
+	</string>
+
+<string name="cureJaundice">
+	<![CDATA[
+		"<p> <b>Tomato Juice</b> </p>"
+                "One glass of tomato juice, mixed with a pinch of salt and pepper, "
+                "taken on empty stomach in the morning is a very effective home cure for jaundice.";
+	]]>
+</string>
+
+	<string name="cureLaryngitis">
+		<![CDATA[
+			"<p> <b>Lemon Juice and Salt</b> </p>"
+                "The acidic nature of lemon juice can kill bacteria and viruses, and relieve various symptoms of laryngitis."
+                " Plus, it helps loosen mucus.<br/> <br/>"
+                "&#9827; Squeeze the juice of a lemon into a glass of warm water.<br/>"
+                "&#9827; Add one-half teaspoon of sea salt (if you do not have sea salt then just use table salt)<br/>"
+                "&#9827; Gargle with this solution several times a day."
+		]]>
+	</string>
+
+	<string name="cureLibido">
+		<![CDATA[
+			"<p> <b>Milk and Raw Egg</b> </p>"
+                "Nothing about raw eggs sounds sexy, but they are said to arouse your libido. "
+                "High in vitamins B5 and B6, eggs also balance hormone levels and fight stress."
+                "<p>\"Mother Nature's prescription for a healthy sex life includes high-fat animal foods, "
+                "such as whole milk, cream, and butter,\" says Kaayla T. Daniel, "
+                "nutritionist and author of The Whole Soy Story: The Dark Side of America's Favorite Health Food."
+                " We require plenty of fats, but the natural, "
+                "saturated kind (not the trans fats in margarine and grease) in order to produce sex hormones.</p>"
+                "<p>Mix 20cl of milk with one raw egg. Stir well and drink 20 mins before intercourse.</p>"
+		]]>
+	</string>
+
+	<string name="cureLooseMotion">
+		<![CDATA[
+			"<p> <b>Banana, Lemon and Salt</b> </p>"
+                "Both raw and ripe bananas can help treat diarrhea due to their pectin content. "
+                "This water-soluble fiber helps absorb fluids in the intestines, which in turn helps add bulk to the stool."
+                "<br/>Being high in potassium, it even helps replace electrolytes that may be lost during diarrhea."
+                "It can reduce the amount of stool, frequency of vomiting and duration of diarrhea, "
+                "as well as reduce the need for oral rehydration solutions or intravenous fluids.\n"
+                "A 2012 study published in the Journal of Pharmacognosy and Phytochemistry "
+                "also confirms that intake of bananas is beneficial for people suffering from diarrhea."
+                "<p>&#9827; When dealing with loose motions, eat a ripe banana every few hours.<br/><br/>"
+                "&#9827; Another option is to steam or boil a raw banana, "
+                "mash it and then add a little lemon juice and a pinch of salt before eating.</p>"
+		]]>
+	</string>
+
+	<string name="cureLSC">
+		<![CDATA[
+			"<p> <b>Guava Leaves, Carrot and Cucumber</b> </p>"
+                "To cure low sperm count, you need to get some quantity of guava leaves, "
+                "pound and mix with 4 litres of boiled water, allow the water to cool, then "
+                "filter it, store the liquid in a clean gallon that has tight cover and put in a "
+                "fridge or a cupboard, drink 1 tumbler daily for 2 weeks. After which you should be "
+                "eating a mixture of carrot and cucumber every night for another two weeks. The condition will increase drastically."
+		]]>
+	</string>
+
+	<string name="cureMalaria">
+		<![CDATA[
+			"<p> <b>Cinnamon, Honey and Pepper</b> </p>"
+                "Cinnamon is effective in treating malaria. Add one teaspoon of powdered cinnamon, "
+                "a teaspoon of honey, a dash of pepper powder and boil the mixture in a bowl/glass of water. "
+                "It can be taken daily and is considered as a valuable remedy for treating the disease."
+		]]>
+	</string>
+
+	<string name="cureMouthOdour">
+		<![CDATA[
+			"<p> <b>Honey and Lime</b> </p>"
+                "In tackling the problem of mouth odour one can reach out to the sweet golden liquid honey "
+                "that is loaded with antibacterial and antifungal properties that have been in use for centuries. "
+                "Honey is made up of glucose, fructose, and minerals such as iron, calcium, phosphate, sodium chlorine, potassium, magnesium."
+                "<p>&#9827; Wash the limes and cut into two slices<br/><br/>"
+                "&#9827; Squeeze the list_item with a juice squeezer or with hands.<br/><br/>"
+                "&#9827; Sieve the list_item juice into a container or leave the pulps if you choose to.<br/><br/>"
+                "&#9827; Pour in the honey and the mixture together. "
+                "Ensure to get an original honey for the to enjoy the numerous benefits.<br/><br/>"
+                "&#9827; Wash your mouth twice daily with the mixture(morning and night)<br/><br/></p>"
+		]]>
+	</string>
+
+	<string name="curePile">
+		<![CDATA[
+			"<p> <b>Unripe Papaya (Pawpaw)</b> </p>"
+                "It has been studied that unripe green papaya or papaya stem contains more papain enzyme than ripe papaya."
+                "<p>&#9827; Add unripe papaya in your salad, or chew unripe papaya more frequently"
+                " to get rid of piles.<br/><br/>"
+		]]>
+	</string>
+
+	<string name="curePoison">
+		<![CDATA[
+			"<p> <b>ACTIVATED COCONUT SHELL CARBON</b> </p>"
+                "Activated charcoal is jet black in colour-- odourless, tasteless and non-toxic.In 1813, "
+                "an European chemist swallowed five grams of deadly "
+                "arsenic trioxide mixed with activated coconut charcoal with no adverse effect."
+                "Much later in 1831 , in front of his distinguished colleagues at the French Academy of Medicine, "
+                "Professor Touery combined at lethal dose of strychnine with activated charcoal , such was his confidence in this porous carbon. "
+                "It absorbs the poison , through the entire length of the stomach and small and large intestines (GI tract)."
+                "<p>Activated charcoal keeps the poison from being aBsorbed from the stomach and intestines into the body. Because charcoal is "
+                "not \"digested,\" it stays inside the GI tract and eliminates the toxin when the person has a bowel movement."
+                "<br/><br/>Activated charcoal powder can adsorb thousands of times its own weight in gases, "
+                "heavy metals, poisons, and other chemicals-it renders them ineffective and harmless.The finer the particle size of an activated carbon, "
+                "the better the access to the surface area and the faster the rate of adsorption kinetics</p>"
+                "<p>&#9827; Get the shell of a coconut.<br/><br/>"
+                "&#9827; Burn till it turns into coal.<br/><br/>"
+                "&#9827; Take a spoon full mix with water or palm oil and give to poison victim.<br/><br/>"
+                "&#9827; <b>Note</b> Activated charcoal powder must be stored in a tightly sealed container, "
+                "because it readily adsorbs impurities and moisture from the atmosphere."
+		]]>
+	</string>
+
+	<string name="cureRingworm">
+		<![CDATA[
+			"<p> <b>Papaya and Papaya Seed</b> </p>"
+                "Raw Papaya is one of the best remedies for treating ring worm. The enzyme contained "
+                "in raw papaya is effective in killing the fungus that causes ringworm."
+                "<p>&#9827; Take a freshly cut slices of raw papaya and rub gently on the ringworm patches.<br/><br/>"
+                "&#9827; Let the enzyme work on the rash for at least 15 minutes and wash off using hot water.<br/><br/>"
+                "&#9827; Repeat the process several times a day to get cured completely.<br/><br/>"
+                "&#9827; <b>OR</b> Alternatively, make a paste using dried papaya seeds and apply on "
+                "the affected area to find quick relief from itching and burning."
+		]]>
+	</string>
+
+	<string name="cureTub">
+		<![CDATA[
+			"<p> <b>Pineapple, Pepper, Salt and Honey</b> </p>"
+                "In a study published in \"Der Pharma Chemica\" in 2010, researchers attempted to "
+                "find beneficial treatments for patients who have tuberculosis."
+                "<p> As part of their studies, they discovered that a mixture "
+                "of raw pineapple juice, pepper, salt and honey given to patients "
+                "every day helped to dissolve the mucus in the lungs."
+		]]>
+	</string>
+
+	<string name="cureTyphoid">
+		<![CDATA[
+			"<p> <b>Basil (or Scent) Leaves, Ginger and Honey</b> </p>"
+                "Basil is another effective treatment for typhoid fever. "
+                "This herb has antibiotic and antibacterial properties that can help get rid of the bacteria that cause typhoid fever. "
+                "Moreover, it helps bring down a fever, calm the stomach and boost your immune system."
+                "<p>&#9827; Add 20 basil leaves and 1 teaspoon of crushed ginger to 1 cup of water.<br/><br/>"
+                "&#9827; Boil it until the solution reduces by half.<br/><br/>"
+                "&#9827; Add a little honey and drink this tea 2 or 3 times a day for a few days.<br/><br/>"
+                "&#9827; <b>OR</b> Alternatively, You can also extract the juice from 5 to 7 basil leaves. "
+                "Add a pinch of freshly ground black pepper to the juice and eat it 2 or 3 times a day for a couple of weeks."
+		]]>
+	</string>
+
+	<string name="cureUlcer">
+		<![CDATA[
+			"<p> <b>Unriped Plantain</b> </p>"
+                "Unripe plantain has a sticky gum, which is some how hard to remove if it gums on"
+                " your hand, so our forefathers, recognized this gum content of an unripe plantain as having the power "
+                "to cover up those wound or sore in your intestine, thereby silencing them forever. "
+                "<p>&#9827; Get two or three fruits of an unripe plantain, peel out the bark and wash them.<br/><br/>"
+                "&#9827; Cut them in smaller pieces, may be 5 mm or so, just cut them in smaller portions, so as to aid its fermentation.<br/><br/>"
+                "&#9827; Now, get a 4 or 5-liter plastic container, with cover, and then wash it thoroughly and allow it to dry.<br/><br/>"
+                "&#9827; Fill the container with the already pieced unripe plantain.<br/><br/>"
+                "&#9827; Now fill the container with clean water, to at least it’s half or more, but don’t fill to the brim.<br/><br/>"
+                "&#9827; Cover the container tightly and Shake it together with its contents, and then store "
+                "in a good place for fermentation to take place within two or three days.\n<br/><br/>"
+                "&#9827; After a period of two to three days, check your concussion, it is now ready for use. "
+                "Take half glass morning and night<br/><br/>"
+		]]>
+	</string>
+
+	<string name="cureWE">
+		<![CDATA[
+			"<p> <b>Onions or Ginger and Honey</b> </p>"
+                "Onion is known as one of the greatest aphrodisiac foods, "
+                "it helps increase libido and also strengthens the reproducing organs. "
+                "Onions also increase the testosterone levels in the body and can help in increasing the sexual stamina.<br/><br/>"
+                "Ginger is a rhizome that is credited with the power to increase blood circulation in the body, "
+                "it is only natural that ginger can cure ED.<br/><br/>"
+                "<p>&#9827; Get 5 Onions or Ginger, boil and squeeze out the juice.<br/><br/>"
+                "&#9827; Mix with the same quantity of honey.<br/><br/>"
+                "&#9827; Pour in a clean bottle.<br/><br/>"
+                "&#9827; Drink a spoonful after each meal.<br/><br/>"
+                "&#9827; <b>OR</b> Take one tablespoon of the Onions/ginger extract every day with a tablespoon of honey and one half boiled egg before bedtime. "
+                "Do this for a month to see the tremendous change in sexual performance.<br/><br/>"
+		]]>
+	</string>
+
+	<string name="cureWhitlow">
+		<![CDATA[
+			"<p> <b>LEMON</b> </p>"
+                "<p>&#9827; Take a lemon and make a hole into it.<br/><br/>"
+                "&#9827; Now, insert the affected finger into this hole for about 30 minutes and it "
+                "should be done twice daily for quick healing.<br/><br/>"
+		]]>
+	</string>
+
+	<string name="cureWorms">
+		<![CDATA[
+			"<p> <b>Papaya Seeds, Leaves and Honey</b> </p>"
+                "Papaya seeds are very useful in treating and eliminating intestinal worms. "
+                "Caricin which is effective in eliminating roundworms is present in ample quantity in papaya seeds."
+                "<p>&#9827; Dry and Powder the seeds.<br/><br/>"
+                "&#9827; Add one teaspoon of this powder in a cup of milk or water.<br/><br/>"
+                "&#9827; Drink on empty stomach in the morning, daily.<br/><br/>"
+                "<p> Papaya leaves are also useful for treating intestinal worms.</p>"
+                "&#9827; Make an infusion by taking 15grams of dried Papaya leaves and add about 250ml of boiling water to it.<br/><br/>"
+                "&#9827;Add honey to it before drinking<br/><br/>"
+                "&#9827;One tablespoon of fresh unripe papaya juice and equal quantity of honey mixed with three tablespoons "
+                "of hot water can be taken to treat roundworms. If this is administered to adults, "
+                "this should be followed by a dose of 30 to 60ml of castor oil(Ugba seed oil) "
+                "mixed in 250ml of lukewarm milk after two hours. For children of seven to ten years of age, "
+                "half of the dosage is sufficient and for children below three years, one tablespoon of this dosage is sufficient.<br/><br/>"
+		]]>
+	</string>
+
+	<string name="cureWR">
+		<![CDATA[
+			"<p> <b>Corn Silk Tea</b> </p>"
+                "Corn silk, the threadlike strands that grow at the end of a corn stalk, "
+                "is rich in antioxidants, flavonoids, polyphenols, and vitamin K. "
+                "It’s great for treating kidney disorders and urinary infections, and it reduces uric acid and water retention. "
+                "As a natural diuretic, it eliminates toxins and waste. In addition to treating edema, it also helps with gout and arthritis. "
+                "Consult a doctor before use as it may interact negatively with blood thinners."
+                "<p>&#9827; Add ¼ cup fresh corn silk or 2 teaspoons dried corn silk to boiling water.<br/><br/>"
+                "&#9827; Cut them in smaller pieces, may be 5 mm or so, just cut them in smaller portions, so as to aid its fermentation.<br/><br/>"
+                "&#9827; Remove from heat and let steep 5-10 minutes.<br/><br/>"
+                "&#9827; Strain and drink.<br/><br/>"
+                "&#9827; Repeat twice daily.<br/><br/>"
+		]]>
+	</string>
+
+	<string name="cureYellow">
+		<![CDATA[
+			"<p> <b>Lime Juice and Salt</b> </p>"
+                "Lime juice mixed with a pinch of salt is one of the best home remedies for diarrhea.
+                 You can drink list_item juice in lukewarm water. "
+                "You can also add honey for improved taste and it is a great diarrhea reliever. "
+                "It can be consumed 2-3 times a day for the best results."
+		]]>
+	</string>
+
+	<string name="cureIBH">
+		<![CDATA[
+			"<p> <b>A young or immature coconut, Honey</b> </p>"
+                "&#9827; Lay the young coconut by it sides and cut off slices from the bottom so
+                as to find the coconut soft spot or eye (a soft whitish spot).<br/><br/>"
+                "&#9827; Stick your knife through the coconut eye and drain the coconut water in mug. It should be a yellowish/clear color."
+                "&#9827; Remove the coconut lid with your knife and scoop out the coconut meat with a spoon <br/><br/>"
+                "&#9827; Add all ingredients (coconut water, coconut meat and spoons of honey to taste depending on the size and quantity of the coconut)
+                         to a high speed blender. Begin blending on a low speed, then switch to high speed.
+                         Blend for at least two minutes or till when you can no longer see the pieces of the coconut meat."
+                         "&#9827; You may sieve off the unblended  particles <br/><br/>"
+                         "&#9827; Keep in fridge afterwards. (A blend will last for at least four days) <br/><br/>"
+                         "&#9827; Drink (1/2) half a glass every night. <br/><br/>"
+		]]>
+	</string>
+	<string name="slime">Slime</string>
+	<string name="applying_slime">Applying Slime</string>
+	<string name="milkweed">Milkweed</string>
+	<string name="manuka_plant">Manuka Plant</string>
+	<string name="raw_manuka_honey">Raw Manuka Honey</string>
+	<string name="honey_title">Honey</string>
+	<string name="lime_title">Lime</string>
+	<string name="basil_leaves">Basil Leaves</string>
+	<string name="bitter_gourd">Bitter Gourd</string>
+	<string name="mango_leaves">Mango Leaves</string>
+	<string name="salt">Salt</string>
+	<string name="warm_water">Warm Water</string>
+	<string name="papaya_leaf">Papaya Leaf</string>
+	<string name="papaya_leaf_juice">Papaya Leaf Juice</string>
+	<string name="castor_seed">Castor Seed</string>
+	<string name="castor_oil">Castor Oil</string>
+	<string name="castor_bean_seed_and_oil">Castor bean Seed and Oil</string>
+	<string name="olive_oil_title">Olive Oil</string>
+	<string name="neem_leaves">Neem Leaves</string>
+	<string name="pineapple_title">Pineapple</string>
+	<string name="watermelon">Watermelon</string>
+	<string name="milk">Milk</string>
+	<string name="muskmelon">Muskmelon</string>
+	<string name="cucumber_title">Cucumber</string>
+	<string name="tomato_juice">Tomato Juice</string>
+	<string name="pepper_title">Pepper</string>
+	<string name="lemon_juice">Lemon Juice</string>
+	<string name="raw_egg">Raw Egg</string>
+	<string name="banana_title">Banana</string>
+	<string name="guava_leaves">Guava Leaves</string>
+	<string name="carrot_title">Carrot</string>
+	<string name="cinnamon_title">Cinnamon</string>
+	<string name="unripe_papapya">Unripe Papapya</string>
+	<string name="activated_coal_title">Activated Coal</string>
+	<string name="coconut_shell">Coconut Shell</string>
+	<string name="burnt_coconut">Burnt Coconut</string>
+	<string name="pawpaw_title">Pawpaw</string>
+	<string name="dried_papaya_seed">Dried Papaya Seed</string>
+	<string name="ginger_title">Ginger</string>
+	<string name="black_pepper">Black Pepper</string>
+	<string name="unriped_plantain_title">Unriped Plantain</string>
+	<string name="onion">Onion</string>
+	<string name="soft_boiled_egg">Soft Boiled Egg</string>
+	<string name="lemon_title">LEMON</string>
+	<string name="papaya_seeds">Papaya Seeds</string>
+	<string name="papaya_leaves">Papaya Leaves</string>
+	<string name="corn_silk_title">Corn Silk</string>
+	<string name="APP_NAME">Homespital</string>
+	<string name="DRAWER_OPEN">Open</string>
+	<string name="IBH">Body Heat</string>
+	<string name="LSC">Low Sperm Count</string>
+	<string name="Mango">"\"Mango is a member of the drupe family, a kind of plant foods, in which an outer fleshy part surrounds a shell (what we sometimes call a well) with an internal alL seed. Olive, dates and coconuts are also types of stone fruit. Mango might be the king of all fruits. fight cancer, alkalize the body, L aid in weight loss, regular diabetes, aids digestion, cleanse the skin and make the perfect snack. \" "</string>
+	<string name="burn">burn</string>
+	<string name="basil">basil</string>
+	<string name="young_coconut">Young Coconut</string>
+</resources>

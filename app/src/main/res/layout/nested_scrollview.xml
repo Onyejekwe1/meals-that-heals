@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingTop="10dp">
+
+        <include layout="@layout/activated_coal" />
+
+        <include layout="@layout/banana" />
+
+        <include layout="@layout/basil_leaf" />
+
+        <include layout="@layout/bitter_kola" />
+
+        <include layout="@layout/carrot" />
+
+        <include layout="@layout/castor_bean" />
+
+        <include layout="@layout/cinnamon" />
+
+        <include layout="@layout/corn_silk" />
+
+        <include layout="@layout/cucumber" />
+
+        <include layout="@layout/garlic" />
+
+        <include layout="@layout/ginger" />
+
+        <include layout="@layout/guava" />
+
+        <include layout="@layout/honey" />
+
+        <include layout="@layout/lemon" />
+
+        <include layout="@layout/lime" />
+
+        <include layout="@layout/mango" />
+
+        <include layout="@layout/milk_weed" />
+
+        <include layout="@layout/olive_oil" />
+
+        <include layout="@layout/onions" />
+
+        <include layout="@layout/orange" />
+
+        <include layout="@layout/pawpaw" />
+
+        <include layout="@layout/pepper" />
+
+        <include layout="@layout/pineapple" />
+
+        <include layout="@layout/snail_slime" />
+
+        <include layout="@layout/tomato" />
+
+        <include layout="@layout/unripe_plantain" />
+
+    </LinearLayout>
+
+</android.support.v4.widget.NestedScrollView>
